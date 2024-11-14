@@ -10,14 +10,12 @@ El objetivo general de este repositorio es facilitar el aprendizaje de los conce
 Estructura del Repositorio
 El repositorio se organiza en los siguientes directorios:
 
-materiales/: Contiene guías, apuntes y videos que explican los conceptos principales de la asignatura.
+Programación lineal y entera
 
-guías/: Documentos que cubren cada tema con ejemplos y explicaciones detalladas.
+Grafos y modelos de redes
 
-videos/: Enlaces a videos que complementan las guías de estudio.
+Teoría de la decisión
 
-ejercicios/: Conjunto de problemas y ejemplos prácticos para reforzar los conceptos.
+Teoría de juegos
 
-codigo_R/: Código en R para resolver los problemas planteados. Los archivos están organizados por temas y están documentados para facilitar su comprensión y modificación.
-
-recursos_adicionales/: Referencias bibliográficas, enlaces y otros recursos complementarios.
+Programación dinámica
